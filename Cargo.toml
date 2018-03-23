@@ -1,0 +1,6 @@
+[package]
+name = "gravity2"
+version = "0.1.0"
+authors = ["Martin Barth <martin@senfdax.de>"]
+
+[dependencies]
